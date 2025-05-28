@@ -21,3 +21,4 @@ This project is my final Data Visualization Apps (BUA 610) capstone for graduate
 ## Files
 - `TSY_PowerBI_Capstone_Project.pbix` – Power BI dashboard
 - `TSY_Tableau_Capstone_Project.twbx` – Tableau dashboard
+- `Superstore.xlsx` - Dataset
